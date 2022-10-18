@@ -1,0 +1,12 @@
+com/lankydan/cassandra/controller/LugarController.class
+com/lankydan/cassandra/person/Profesores.class
+com/lankydan/cassandra/person/repository/ProfesoresRepository.class
+com/lankydan/cassandra/controller/AsignaturaController.class
+com/lankydan/cassandra/controller/ProfesoresController.class
+com/lankydan/cassandra/person/Lugar.class
+com/lankydan/cassandra/person/repository/LugarRepository.class
+com/lankydan/cassandra/ClusterConfig.class
+com/lankydan/cassandra/person/repository/AsignaturaRepository.class
+com/lankydan/cassandra/person/Asignatura.class
+com/lankydan/cassandra/RetryingCassandraClusterFactoryBean.class
+com/lankydan/Application.class
