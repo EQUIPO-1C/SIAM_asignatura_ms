@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c2a5a28-04b0-41cf-97f1-777eb94e83ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-data-cassandra-docker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-data-cassandra-docker-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-data-cassandra-docker-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-data-cassandra-docker-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-data-cassandra-docker-1.0.0.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669701484619</updated>
       <workItem from="1669701487615" duration="404000" />
-      <workItem from="1669701912483" duration="44000" />
+      <workItem from="1669701912483" duration="690000" />
     </task>
     <servers />
   </component>
